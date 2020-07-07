@@ -1,0 +1,93 @@
+body{
+    background-color: 232323;
+}
+.fullscreenIcon{
+    float: right;
+}
+header{
+    margin: 10px;
+}
+.participantView{
+    margin-top: 2%;
+}
+.audioButton{
+    background: url('images/Audio\ icon.png');
+    background-position:center;
+    background-repeat:no-repeat;
+    padding-top: 70px;
+    border: none;
+}
+.videoButton{
+    background: url('images/Video\ icon.png');
+    background-position:center;
+    background-repeat:no-repeat;
+    padding-top: 70px;
+    border: none;
+}
+.phoneButton{
+    background: url('images/Phone\ icon.png');
+    background-position:center;
+    background-repeat:no-repeat;
+    padding-top: 70px;
+    border: none;
+}
+.participantsButton{
+    background: url('images/Participants\ icon.png');
+    background-position:center;
+    background-repeat:no-repeat;
+    padding-top: 70px;
+    border: none;
+}
+.chatButton{
+    background: url('images/Chat\ icon.png');
+    background-position:center;
+    background-repeat:no-repeat;
+    padding-top: 70px;
+    border: none;
+}
+.fileButton{
+    background: url('images/File\ icon.png');
+    background-position:center;
+    background-repeat:no-repeat;
+    padding-top: 70px;
+    border: none;
+}
+.shareButton{
+    background: url('images/Share\ screen\ icon.png');
+    background-position:center;
+    background-repeat:no-repeat;
+    padding-top: 70px;
+    border: none;
+}
+.recButton{
+    background: url('images/Record\ icon.png');
+    background-position:center;
+    background-repeat:no-repeat;
+    padding-top: 70px;
+    border: none;
+}
+.endButton{
+    padding-left: 30px;
+    padding-right: 30px;
+    float: right;
+    border: none;
+}
+.reactionButton{
+    background: url('images/Reaction\ icon.png');
+    background-position:center;
+    background-repeat:no-repeat;
+    padding-top: 70px;
+    border: none;
+}
+.container-fluid{
+    justify-content: center;
+}
+
+.timer{
+color: white;
+}
+
+.card-img-overlay{
+    text-align: left;
+}
+
